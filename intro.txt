@@ -11,3 +11,4 @@ Kế hoạch học tập:
 - Học về stash và revert.
 - Làm dự án nhóm với GitHub.
 - Viết báo cáo thực hành đầy đủ.
+Kế hoạch học tập: Hoàn thành môn Git vào tuần này.
