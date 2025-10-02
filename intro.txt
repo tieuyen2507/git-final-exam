@@ -1,4 +1,4 @@
-Tôi là Ngô Tiểu Yến.
+Xin chào, tôi là Ngô Tiểu Yến
 Tôi là sinh viên MSSV: 223056.
 Hiện tôi đang học môn Quản lý mã nguồn với Git.
 Mục tiêu của tôi là sử dụng Git thành thạo.
