@@ -1,0 +1,13 @@
+Xin chào, tôi là Ngô Tiểu Yến.
+Tôi là sinh viên MSSV: 223056.
+Hiện tôi đang học môn Quản lý mã nguồn với Git.
+Mục tiêu của tôi là sử dụng Git thành thạo.
+Tôi mong muốn áp dụng Git vào các dự án thực tế.
+Sở thích: đọc sách, nghe nhạc, học lập trình.
+Kỹ năng: giao tiếp, teamwork, sử dụng Git.
+Kế hoạch học tập:
+- Ôn lại các kiến thức Git cơ bản.
+- Thực hành branch, merge, conflict.
+- Học về stash và revert.
+- Làm dự án nhóm với GitHub.
+- Viết báo cáo thực hành đầy đủ.
