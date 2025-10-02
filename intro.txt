@@ -12,3 +12,4 @@ Kế hoạch học tập:
 - Làm dự án nhóm với GitHub.
 - Viết báo cáo thực hành đầy đủ.
 Kế hoạch học tập: Hoàn thành môn Git vào tuần này.
+Ghi chú tạm thời 2
